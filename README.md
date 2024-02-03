@@ -16,20 +16,20 @@ Info blocks
 | 3   | PartNo|
 | 4   | PartNo|
 | 5   | PartNo|
-| 6   |       |
-| 7   |       |
-| 8   | Date/Day  |
-| 9   | Date/Month  |
-| 10  | Date/Year  |
-| 11  |       |
+| 6   | Type (Toner=14/Drum=11)|
+| 7   | Type (Toner=14/Drum=11)|
+| 8   | Date/Day|
+| 9   | Date/Month|
+| 10  | Date/Year|
+| 11  | Type (Toner=0/Drum=1)|
 | 12  | Serial|
 | 13  | Serial|
 | 14  | Serial|
-| 15  |       |
-| 16  |       |
-| 17  |       |
-| 18  | Type  |
-| 19  |       |
+| 15  | 255|
+| 16  | 65|
+| 17  | 0|
+| 18  | Type (Toner/Drum, Proxmark-way to check)|
+| 19  | 0|
 
 Var blocks
 ---
