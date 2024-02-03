@@ -1,7 +1,7 @@
 Xerox Colour C60 dump files created with Proxmark 3 RDV4
 ---
 
-By sharing these ecnrypted and decrypted toner chip dump files I hope to gain more knowledge about the contents of these chips. Please share your thoughts if you have and know more information.
+By sharing these encrypted and decrypted toner chip dump files I hope to gain more knowledge about the contents of these chips. Please share your thoughts if you have and know more information.
 The commando's that I used on Proxmark were: `hf xerox dump` and for the decrypted dumps `hf xerox dump -d`.
 
 Info blocks
