@@ -18,9 +18,9 @@ Info blocks
 | 5   | PartNo|
 | 6   |       |
 | 7   |       |
-| 8   | Date  |
-| 9   | Date  |
-| 10  | Date  |
+| 8   | Date/Day  |
+| 9   | Date/Month  |
+| 10  | Date/Year  |
 | 11  |       |
 | 12  | Serial|
 | 13  | Serial|
