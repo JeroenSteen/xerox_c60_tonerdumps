@@ -31,6 +31,8 @@ Info blocks
 | 18  | Type (Toner/Drum, Proxmark-way to check)|
 | 19  | 0|
 
+Note: Serial being found is 8-digit, but Xerox Supply is 12-digit.
+
 Var blocks
 ---
 0x1c (28), 0x1e (30), 0x20 (32), 0x26 (38), 0x28 (40), 0x2a (42), 0x2c (44), 0x2e (46)
